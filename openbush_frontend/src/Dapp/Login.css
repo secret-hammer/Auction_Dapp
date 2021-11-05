@@ -1,0 +1,29 @@
+.site-layout-content{
+    /*flex 布局*/
+    display: flex;
+    /*实现水平居中*/
+    justify-content: center;
+    
+    text-align: justify;
+    margin:0 auto;
+    color:#fff;
+}
+.inner_card{
+    margin: 50px；
+}
+
+.inside_card_content{
+    /*flex 布局*/
+    display: flex;
+    /*实现水平居中*/
+    justify-content: center;
+    
+    text-align: justify;
+    margin:0 auto;
+    color:#fff;
+}
+
+.card_button{
+    width: 300;
+    height: 200;
+}

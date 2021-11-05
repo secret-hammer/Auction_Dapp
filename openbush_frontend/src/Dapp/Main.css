@@ -1,0 +1,16 @@
+.content {
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+}
+
+.title {
+  font-size: 60 px;
+}
+
+.footer {
+  position:absolute; 
+  bottom:0%;
+  left:38%;
+}
